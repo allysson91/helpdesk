@@ -100,7 +100,7 @@ public class JwtTokenUtil implements Serializable {
 
 	}
 
-	public String refreshTOken(String token) {
+	public String refreshToken(String token) {
 
 		String refreshedToken;
 		
